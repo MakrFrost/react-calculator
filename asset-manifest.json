@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MakrFrost/.github.io/react-calculator/static/css/main.7acaea2f.css",
-    "main.js": "/MakrFrost/.github.io/react-calculator/static/js/main.07d3183d.js",
+    "main.css": "/MakrFrost/.github.io/react-calculator/static/css/main.f881ad78.css",
+    "main.js": "/MakrFrost/.github.io/react-calculator/static/js/main.0f609de9.js",
     "index.html": "/MakrFrost/.github.io/react-calculator/index.html",
-    "main.7acaea2f.css.map": "/MakrFrost/.github.io/react-calculator/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MakrFrost/.github.io/react-calculator/static/js/main.07d3183d.js.map"
+    "main.f881ad78.css.map": "/MakrFrost/.github.io/react-calculator/static/css/main.f881ad78.css.map",
+    "main.0f609de9.js.map": "/MakrFrost/.github.io/react-calculator/static/js/main.0f609de9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f881ad78.css",
+    "static/js/main.0f609de9.js"
   ]
 }
