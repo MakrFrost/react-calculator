@@ -1,0 +1,41 @@
+* {
+  font-family: sans-serif;
+}
+input,
+button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+button {
+  cursor: pointer;
+  border: 1px solid gray;
+  background: whitesmoke;
+  margin-right: 5px;
+}
+button:active {
+  background: rgb(179, 179, 179);
+}
+button:nth-last-child(2),
+button:nth-last-child(1) {
+  background: tomato;
+  color: white;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app form {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+.app p {
+  font-size: 24px;
+}
